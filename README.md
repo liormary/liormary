@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lior Mary</h1>
+<h1 align="center">Hi, I'm Lior Mary 👋</h1>
 <h2 align="center">A passionate developer and a recent Computer Science Graduate from The Open University</h2>
 <h3 align="center">Dean's Award for Excellence 2023 </h3>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lior Mary</h1>
+<h1 align="center">Hi, I'm Lior Mary 👋</h1>
 <h3 align="center">A passionate developer and a recent Computer Science Graduate from The Open University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liormary&label=Profile%20views&color=0e75b6&style=flat" alt="liormary" /> </p>
